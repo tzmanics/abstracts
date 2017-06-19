@@ -1,0 +1,1 @@
+Let's use technology to bring people together...literally. We'll look into the creation of a game that uses sensors on people to make them disregard the social norm of staying out of each others personal space. This game also uses lights and proximity sensors to create instructions and user feedback to make the two players work together.
