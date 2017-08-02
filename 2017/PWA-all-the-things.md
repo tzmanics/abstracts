@@ -1,0 +1,3 @@
+# PWA All The Things!
+
+Progressive Web Apps give us resources to make our web applications more accessible and reliable. There are so many ways to build web applications including using Angular, React and Vue. Let's look at ALL of them and what it takes to build them into PWAs. We'll be using the cli tools and Kendo UI component libraries to quickly spin up a robust application. Then we'll take advantage of the PWA strategies and see how these apps look on multiple platforms. This will be a high-level overview of what it takes to create an application in each of these languages and add the benefits of making each one a PWA. 
