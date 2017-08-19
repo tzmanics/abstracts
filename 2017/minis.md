@@ -1,0 +1,5 @@
+# PWA All The Things: Why & How
+How to get started creating or updating your web apps to Progressive Web Apps using Vue, React and Angular. More importantly, we'll discuss why you should even bother?
+
+# I have no idea what I'm doing, but I'm going to do it anyway!
+I moved back to Cincinnati to find that the organization I had leaned on in college, Women Who Code, didn't even exist. At first, I was very disappointed but soon that disappointment evolved into motivation. I met a fellow local, female developer who said, "We just need someone to start it!" and I had the application submitted that day. The rest of the journey has been filled with good and not good days but I've always learned something along the way. I'd like to share the advice I've been given along the way, even the bad advice, in hopes of giving you everything that has helped me and my community grow.
