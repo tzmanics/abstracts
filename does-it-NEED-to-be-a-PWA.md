@@ -1,0 +1,3 @@
+Does it NEED to be a PWA?
+
+There is a lot of talk about Progressive Web Apps these days, but what apps actually need to be progressive? Maybe users don't NEED a push notification every time you post a picture of your pet. Maybe users will be fine WITHOUT having offline access to their list of favorite recipes. Let's talk about what kind of apps can really be benefited by the advancements of modern web technologies and in the end walk through how to spin one up.
