@@ -5,10 +5,9 @@ I usually know I have a meeting an hour before it happens because my calendar al
 ## Extra Notes
 Earlier this year I was tasked to check in throughout the day to see what emotion I was feeling and handed a photocopied list of emotions. Judging from the list of words, it was at least 40 years old.
 
-At that same time, I was trying to figure out what apps could really benefit from the modern technologies used in Progressive Web Apps. Two birds with one app...or something like that. I decided to create an app that could ping a user, whether or not the app was open and independent of their internet connection, to prompt them to choose from a list what emotion they were currently feeling.
+At that same time, I was trying to figure out what apps could really benefit from the modern technologies used in Progressive Web Apps. Two birds with one app...or something like that. I decided to create an app that could ping a user, whether or not the app was open and independent of their internet connection, to prompt them to choose from a list what emotion they were currently feeling.I also wanted the user to have a homescreen icon "reminder" whenever they looked at their phone to randomly log their emotions.
 
-I also wanted the user to have a homescreen icon "reminder" whenever they looked at their phone to randomly log their emotions. Come on this fun VUE PWA journey with me to get some tips and code to create your own Vue PWA!
-
+I'll give a succinct explanation of what PWAs are and their advantages. Then we'll walk through each step necessary to code a Vue PWA using the Vue CLI, Kendo UI's Core open source component library and Firebase for hosting. Come on this fun VUE PWA journey with me to get some tips and code to create your own Vue PWA!
 
 ### Takeaways
-Attendees will gain a better understanding of the steps to take and how to code a progressive web app. They will also have a code base to reference when they get started. Added bonus: they may get more in touch with their emotions 😍
+Attendees will gain a better understanding of the steps to take and how to code a progressive web app, including creating service workers and the push API. They will also have a code base to reference when they get started. Added bonus: they may get more in touch with their emotions 😍
