@@ -12,3 +12,12 @@ This project is specific to plants, but the concept of connecting static informa
 
 ## Takeaways
 Learn how to use the Tessel open source libraries to collect sensor data. Build a UI that utilizes that sensor data to send notifications using service workers.
+
+## Pitch
+This talk will take the steps from back to front of a full project:
+- building a database and API using `graphql create` with Prisma
+- quickly spinning up a UI with create-react-app and a component library
+- incorporating progressive web app strategies
+- hooking this all up with data from a microcontroller
+
+Building this project, it was hard to find what steps to take, so I want to make it avaiable for more devs. I've spoken and lead workshops teaching all of these pieces separately. Now, it's time for the whole journey to come together in one cohesive session :)
