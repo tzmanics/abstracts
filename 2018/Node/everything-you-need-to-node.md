@@ -1,0 +1,4 @@
+# Everything You Need To Node
+Do you know Node? You've probably heard of or even used Node but do you know all the things you can do with Node? You may have heard Node described as JavaScript for the back-end. Although you can create back-end applications it's not exclusively used to develop back-end apps. Since Node is a JavaScript runtime it allows you to execute JavaScript in a computing environment rather than a browser environment. Oh the possibilities!
+
+In this session we'll walk through a number of different types of projects you can build using Node. Hopefully unveiling some things you didn't even know you could Node. Finally, we'll code a Node application of our own, step-by-step. Looking forward to coding with you! 
