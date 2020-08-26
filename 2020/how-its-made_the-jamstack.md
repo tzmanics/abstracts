@@ -1,0 +1,3 @@
+# How It's Made: The Jamstack
+
+Sometimes the best way to learn about a new technology, or in this case, a new application architecture, is to look into how it’s made. Can a Jamstack site be dynamic? Oh yes, and how…no, really, I’ll show you how. With serverless functions, headless technologies, and APIs we’ll build out dynamic pieces of a Jamstack site. We’ll also look into how Jamstack sites don’t rely on servers for hosting but instead rely on CDNs which are now gaining more power on the edge nodes. Looking into how the Jamstack is made will shine light onto the power of pre-rendering and the “static-first future” that’s not so static. By the end of this talk you’ll have a better understanding of the Jamstack because you will see…how it’s made.
